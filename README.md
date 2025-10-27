@@ -1,11 +1,7 @@
 # ai-assignment
 Data Science AI Assignment
 
-a. What concrete benefits did you see by utilizing AI to help you make the notebook?
-
-b. What dangers do you see for someone using AI to make this notebook without learning data science properly? Give concrete examples.
-
-c. Give examples where you needed to verify the AI output for correctness. How did you know to verify those outputs?
-
   During this assignment, I saw that AI made the process much faster. Since I know what the output needs to be, I can ask a LLM and it will do it in 5 seconds, instead of coding it by hand for 15-20 minutes. I also realized that the AI can show you different ways to do things. It might show you ways that you never thought of before, or it might give you a couple options for a way to code it. Once you have these options, you can choose the one that it best for your problem. However, there are lots of dangers to using AI to code. I noticed that sometimes, if I changed the name or the colorscheme I was using, that the AI would continue to generate code without knowing that I had made changes. When we copy paste code without reviewing it carefully, it can lead to different naming conventions or other bugs. More importantly, it using AI mindlessly takes away from the learning process. Moreover, when we code with AI, we do not become as familiar with the ins and outs of the code. Being in the process of code, without AI, we are forced to create everything ourselves, so we know the attributes for everything that we put in our code.
+ 
+  
   One example of when I needed to verify AI correctness was when I was creating a percentage plot. The AI, at first, did not create a stacked percentage plot; it did a regular plot, without all the values adding up to 100. By verifying wiht the original code, I was able to tell that this was wrong.
